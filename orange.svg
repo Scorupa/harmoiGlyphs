@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="orange.svg"
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,23 +24,25 @@
      inkscape:document-units="mm"
      showgrid="false"
      units="in"
-     inkscape:zoom="0.789759"
-     inkscape:cx="77.871857"
-     inkscape:cy="325.41573"
+     inkscape:zoom="0.5646646"
+     inkscape:cx="182.40917"
+     inkscape:cy="179.75272"
      inkscape:window-width="1280"
-     inkscape:window-height="694"
+     inkscape:window-height="800"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer2"
-     inkscape:object-nodes="false" />
+     inkscape:object-nodes="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <inkscape:path-effect
        effect="mirror_symmetry"
-       start_point="21.359175,90.57505"
-       end_point="21.359175,93.07505"
-       center_point="21.359175,91.82505"
+       start_point="50.8,0"
+       end_point="50.8,101.6"
+       center_point="50.8,50.8"
        id="path-effect2694"
        is_visible="true"
        lpeversion="1.1"
@@ -49,7 +51,8 @@
        fuse_paths="false"
        oposite_fuse="false"
        split_items="false"
-       split_open="false" />
+       split_open="false"
+       lpesatellites="" />
     <inkscape:path-effect
        effect="mirror_symmetry"
        start_point="52.01363,63.11208"
@@ -224,20 +227,15 @@
        transform="matrix(0.26458333,0,0,0.40845434,12.555351,-25.079524)"
        inkscape:transform-center-y="-5.684085" />
     <g
-       id="g2692"
-       inkscape:path-effect="#path-effect2694">
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18818;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="g2692">
+      <path
          id="path4106-3"
-         cx="13.337717"
-         cy="91.82505"
-         r="1.25" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18818;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         d="m 14.587717,91.82505 c 0,0.690356 -0.559644,1.25 -1.25,1.25 -0.690356,0 -1.25,-0.559644 -1.25,-1.25 0,-0.690356 0.559644,-1.25 1.25,-1.25 0.690356,0 1.25,0.559644 1.25,1.25 z m 72.424566,0 c 0,0.690356 0.559644,1.25 1.25,1.25 0.690356,0 1.25,-0.559644 1.25,-1.25 0,-0.690356 -0.559644,-1.25 -1.25,-1.25 -0.690356,0 -1.25,0.559644 -1.25,1.25 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18818;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000" />
+      <path
          id="path4106-3-3"
-         cx="20.109175"
-         cy="91.82505"
-         r="1.25" />
+         d="m 21.359175,91.82505 c 0,0.690356 -0.559644,1.25 -1.25,1.25 -0.690356,0 -1.25,-0.559644 -1.25,-1.25 0,-0.690356 0.559644,-1.25 1.25,-1.25 0.690356,0 1.25,0.559644 1.25,1.25 z m 58.88165,0 c 0,0.690356 0.559644,1.25 1.25,1.25 0.690356,0 1.25,-0.559644 1.25,-1.25 0,-0.690356 -0.559644,-1.25 -1.25,-1.25 -0.690356,0 -1.25,0.559644 -1.25,1.25 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18818;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000" />
     </g>
   </g>
 </svg>
